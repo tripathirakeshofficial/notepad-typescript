@@ -5,7 +5,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/rAkEsH_tRiPa" target="_blank">
-    <img alt="Twitter: rAkEsH\_tRiPa" src="https://img.shields.io/twitter/follow/rAkEsH\_tRiPa.svg?style=social" />
+    <img alt="Twitter: rAkEsH_tRiPa" src="https://img.shields.io/twitter/follow/rAkEsH_tRiPa.svg?style=social" />
   </a>
 </p>
 
